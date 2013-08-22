@@ -1,0 +1,11 @@
+@import url("normalize.css");
+
+
+body {
+	background-color: #fec0ff;
+}
+
+
+.article-list {
+	border:solid 1px #b4da55;
+}
